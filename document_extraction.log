@@ -19779,3 +19779,155 @@ Feel free to share your ratings, and I can help format them!
 2025-06-13 17:28:00,808 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for address_proof_type: Failed to load document
 2025-06-13 17:28:00,808 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for address_proof_type: Failed to load document
 2025-06-13 17:28:00,808 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for address_proof_type: Failed to load document
+2025-06-13 18:15:32,387 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: aadhar_front
+2025-06-13 18:15:32,387 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: aadhar_front
+2025-06-13 18:15:32,387 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: aadhar_back
+2025-06-13 18:15:32,387 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: aadhar_front
+2025-06-13 18:15:32,387 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: aadhar_front
+2025-06-13 18:15:32,387 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: aadhar_back
+2025-06-13 18:15:32,387 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmpszud3yu5.jpg
+2025-06-13 18:15:32,387 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: aadhar_back
+2025-06-13 18:15:32,387 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmpszud3yu5.jpg
+2025-06-13 18:15:32,387 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: aadhar_back
+2025-06-13 18:15:32,387 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmpszud3yu5.jpg
+2025-06-13 18:15:32,387 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmpm_cb4r32.jpg
+2025-06-13 18:15:32,387 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmpszud3yu5.jpg
+2025-06-13 18:15:32,387 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmpm_cb4r32.jpg
+2025-06-13 18:15:32,387 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmpm_cb4r32.jpg
+2025-06-13 18:15:32,387 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmpm_cb4r32.jpg
+2025-06-13 18:15:32,388 - services.extraction_service - INFO - [extraction_service.py:479] - Document data length: 296321 bytes
+2025-06-13 18:15:32,388 - services.extraction_service - INFO - [extraction_service.py:479] - Document data length: 296321 bytes
+2025-06-13 18:15:32,388 - services.extraction_service - INFO - [extraction_service.py:479] - Document data length: 296321 bytes
+2025-06-13 18:15:32,388 - services.extraction_service - INFO - [extraction_service.py:479] - Document data length: 296321 bytes
+2025-06-13 18:15:32,388 - services.extraction_service - INFO - [extraction_service.py:479] - Document data length: 296321 bytes
+2025-06-13 18:15:32,388 - services.extraction_service - INFO - [extraction_service.py:479] - Document data length: 296321 bytes
+2025-06-13 18:15:32,388 - services.extraction_service - INFO - [extraction_service.py:479] - Document data length: 296321 bytes
+2025-06-13 18:15:32,388 - services.extraction_service - INFO - [extraction_service.py:482] - First 100 bytes: 89504e470d0a1a0a0000000d4948445200000591000001e00806000000d48623b10000000467414d410000b18f0bfc6105000000097048597300000ec100000ec101b8916bed0000ffb249444154785eecfd758055c7b72d8cbe7fdef7bd7bcf3d31a0f1
+2025-06-13 18:15:32,388 - services.extraction_service - INFO - [extraction_service.py:479] - Document data length: 296321 bytes
+2025-06-13 18:15:32,388 - services.extraction_service - INFO - [extraction_service.py:482] - First 100 bytes: 89504e470d0a1a0a0000000d4948445200000591000001e00806000000d48623b10000000467414d410000b18f0bfc6105000000097048597300000ec100000ec101b8916bed0000ffb249444154785eecfd758055c7b72d8cbe7fdef7bd7bcf3d31a0f1
+2025-06-13 18:15:32,388 - services.extraction_service - INFO - [extraction_service.py:482] - First 100 bytes: 89504e470d0a1a0a0000000d4948445200000591000001e00806000000d48623b10000000467414d410000b18f0bfc6105000000097048597300000ec100000ec101b8916bed0000ffb249444154785eecfd758055c7b72d8cbe7fdef7bd7bcf3d31a0f1
+2025-06-13 18:15:32,388 - services.extraction_service - INFO - [extraction_service.py:482] - First 100 bytes: 89504e470d0a1a0a0000000d4948445200000591000001e00806000000d48623b10000000467414d410000b18f0bfc6105000000097048597300000ec100000ec101b8916bed0000ffb249444154785eecfd758055c7b72d8cbe7fdef7bd7bcf3d31a0f1
+2025-06-13 18:15:32,388 - services.extraction_service - INFO - [extraction_service.py:482] - First 100 bytes: 89504e470d0a1a0a0000000d4948445200000591000001e00806000000d48623b10000000467414d410000b18f0bfc6105000000097048597300000ec100000ec101b8916bed0000ffb249444154785eecfd758055c7b72d8cbe7fdef7bd7bcf3d31a0f1
+2025-06-13 18:15:32,388 - services.extraction_service - INFO - [extraction_service.py:482] - First 100 bytes: 89504e470d0a1a0a0000000d4948445200000591000001e00806000000d48623b10000000467414d410000b18f0bfc6105000000097048597300000ec100000ec101b8916bed0000ffb249444154785eecfd758055c7b72d8cbe7fdef7bd7bcf3d31a0f1
+2025-06-13 18:15:32,388 - services.extraction_service - INFO - [extraction_service.py:482] - First 100 bytes: 89504e470d0a1a0a0000000d4948445200000591000001e00806000000d48623b10000000467414d410000b18f0bfc6105000000097048597300000ec100000ec101b8916bed0000ffb249444154785eecfd758055c7b72d8cbe7fdef7bd7bcf3d31a0f1
+2025-06-13 18:15:32,388 - services.extraction_service - INFO - [extraction_service.py:482] - First 100 bytes: 89504e470d0a1a0a0000000d4948445200000591000001e00806000000d48623b10000000467414d410000b18f0bfc6105000000097048597300000ec100000ec101b8916bed0000ffb249444154785eecfd758055c7b72d8cbe7fdef7bd7bcf3d31a0f1
+2025-06-13 18:15:32,390 - services.extraction_service - INFO - [extraction_service.py:503] - Identified file type: PNG
+2025-06-13 18:15:32,390 - services.extraction_service - INFO - [extraction_service.py:503] - Identified file type: PNG
+2025-06-13 18:15:32,390 - services.extraction_service - INFO - [extraction_service.py:503] - Identified file type: PNG
+2025-06-13 18:15:32,390 - services.extraction_service - INFO - [extraction_service.py:503] - Identified file type: PNG
+2025-06-13 18:15:32,390 - services.extraction_service - INFO - [extraction_service.py:503] - Identified file type: PNG
+2025-06-13 18:15:32,390 - services.extraction_service - INFO - [extraction_service.py:503] - Identified file type: PNG
+2025-06-13 18:15:32,390 - services.extraction_service - INFO - [extraction_service.py:503] - Identified file type: PNG
+2025-06-13 18:15:32,390 - services.extraction_service - INFO - [extraction_service.py:503] - Identified file type: PNG
+2025-06-13 18:15:32,451 - services.extraction_service - ERROR - [extraction_service.py:575] - AI extraction error for aadhar_back: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-06-13 18:15:32,451 - services.extraction_service - ERROR - [extraction_service.py:575] - AI extraction error for aadhar_back: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-06-13 18:15:32,451 - services.extraction_service - ERROR - [extraction_service.py:575] - AI extraction error for aadhar_back: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-06-13 18:15:32,451 - services.extraction_service - ERROR - [extraction_service.py:575] - AI extraction error for aadhar_back: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-06-13 18:15:32,451 - services.extraction_service - INFO - [extraction_service.py:273] - Completed extraction for aadhar_back in 0.06 seconds
+2025-06-13 18:15:32,451 - services.extraction_service - INFO - [extraction_service.py:273] - Completed extraction for aadhar_back in 0.06 seconds
+2025-06-13 18:15:32,451 - services.extraction_service - INFO - [extraction_service.py:273] - Completed extraction for aadhar_back in 0.06 seconds
+2025-06-13 18:15:32,451 - services.extraction_service - INFO - [extraction_service.py:273] - Completed extraction for aadhar_back in 0.06 seconds
+2025-06-13 18:15:32,452 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for aadhar_back: Verification failed
+2025-06-13 18:15:32,452 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for aadhar_back: Verification failed
+2025-06-13 18:15:32,452 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for aadhar_back: Verification failed
+2025-06-13 18:15:32,452 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for aadhar_back: Verification failed
+2025-06-13 18:15:32,454 - services.extraction_service - ERROR - [extraction_service.py:575] - AI extraction error for aadhar_front: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-06-13 18:15:32,454 - services.extraction_service - ERROR - [extraction_service.py:575] - AI extraction error for aadhar_front: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-06-13 18:15:32,454 - services.extraction_service - ERROR - [extraction_service.py:575] - AI extraction error for aadhar_front: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-06-13 18:15:32,454 - services.extraction_service - ERROR - [extraction_service.py:575] - AI extraction error for aadhar_front: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-06-13 18:15:32,454 - services.extraction_service - INFO - [extraction_service.py:273] - Completed extraction for aadhar_front in 0.07 seconds
+2025-06-13 18:15:32,454 - services.extraction_service - INFO - [extraction_service.py:273] - Completed extraction for aadhar_front in 0.07 seconds
+2025-06-13 18:15:32,454 - services.extraction_service - INFO - [extraction_service.py:273] - Completed extraction for aadhar_front in 0.07 seconds
+2025-06-13 18:15:32,454 - services.extraction_service - INFO - [extraction_service.py:273] - Completed extraction for aadhar_front in 0.07 seconds
+2025-06-13 18:15:32,454 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for aadhar_front: Verification failed
+2025-06-13 18:15:32,454 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for aadhar_front: Verification failed
+2025-06-13 18:15:32,454 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for aadhar_front: Verification failed
+2025-06-13 18:15:32,454 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for aadhar_front: Verification failed
+2025-06-13 18:15:32,455 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: address_proof_type
+2025-06-13 18:15:32,455 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: address_proof_type
+2025-06-13 18:15:32,455 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: address_proof_type
+2025-06-13 18:15:32,455 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: address_proof_type
+2025-06-13 18:15:32,455 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmpvvvowho4.jpg
+2025-06-13 18:15:32,455 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmpvvvowho4.jpg
+2025-06-13 18:15:32,455 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmpvvvowho4.jpg
+2025-06-13 18:15:32,455 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmpvvvowho4.jpg
+2025-06-13 18:15:32,456 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for address_proof_type: Failed to load document
+2025-06-13 18:15:32,456 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for address_proof_type: Failed to load document
+2025-06-13 18:15:32,456 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for address_proof_type: Failed to load document
+2025-06-13 18:15:32,456 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for address_proof_type: Failed to load document
+2025-06-13 18:25:48,294 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: aadhar_front
+2025-06-13 18:25:48,294 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: aadhar_front
+2025-06-13 18:25:48,294 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: aadhar_front
+2025-06-13 18:25:48,294 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: aadhar_back
+2025-06-13 18:25:48,294 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: aadhar_back
+2025-06-13 18:25:48,294 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: aadhar_front
+2025-06-13 18:25:48,294 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: aadhar_back
+2025-06-13 18:25:48,295 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmpm4jmxvb4.jpg
+2025-06-13 18:25:48,295 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmpm4jmxvb4.jpg
+2025-06-13 18:25:48,294 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: aadhar_back
+2025-06-13 18:25:48,295 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmpm4jmxvb4.jpg
+2025-06-13 18:25:48,295 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmpm4jmxvb4.jpg
+2025-06-13 18:25:48,295 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmp1ao2zvhc.jpg
+2025-06-13 18:25:48,295 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmp1ao2zvhc.jpg
+2025-06-13 18:25:48,295 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmp1ao2zvhc.jpg
+2025-06-13 18:25:48,295 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmp1ao2zvhc.jpg
+2025-06-13 18:25:48,295 - services.extraction_service - INFO - [extraction_service.py:479] - Document data length: 296321 bytes
+2025-06-13 18:25:48,295 - services.extraction_service - INFO - [extraction_service.py:479] - Document data length: 296321 bytes
+2025-06-13 18:25:48,295 - services.extraction_service - INFO - [extraction_service.py:479] - Document data length: 296321 bytes
+2025-06-13 18:25:48,295 - services.extraction_service - INFO - [extraction_service.py:479] - Document data length: 296321 bytes
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:482] - First 100 bytes: 89504e470d0a1a0a0000000d4948445200000591000001e00806000000d48623b10000000467414d410000b18f0bfc6105000000097048597300000ec100000ec101b8916bed0000ffb249444154785eecfd758055c7b72d8cbe7fdef7bd7bcf3d31a0f1
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:482] - First 100 bytes: 89504e470d0a1a0a0000000d4948445200000591000001e00806000000d48623b10000000467414d410000b18f0bfc6105000000097048597300000ec100000ec101b8916bed0000ffb249444154785eecfd758055c7b72d8cbe7fdef7bd7bcf3d31a0f1
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:479] - Document data length: 296321 bytes
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:482] - First 100 bytes: 89504e470d0a1a0a0000000d4948445200000591000001e00806000000d48623b10000000467414d410000b18f0bfc6105000000097048597300000ec100000ec101b8916bed0000ffb249444154785eecfd758055c7b72d8cbe7fdef7bd7bcf3d31a0f1
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:482] - First 100 bytes: 89504e470d0a1a0a0000000d4948445200000591000001e00806000000d48623b10000000467414d410000b18f0bfc6105000000097048597300000ec100000ec101b8916bed0000ffb249444154785eecfd758055c7b72d8cbe7fdef7bd7bcf3d31a0f1
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:479] - Document data length: 296321 bytes
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:503] - Identified file type: PNG
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:479] - Document data length: 296321 bytes
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:479] - Document data length: 296321 bytes
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:503] - Identified file type: PNG
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:503] - Identified file type: PNG
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:503] - Identified file type: PNG
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:482] - First 100 bytes: 89504e470d0a1a0a0000000d4948445200000591000001e00806000000d48623b10000000467414d410000b18f0bfc6105000000097048597300000ec100000ec101b8916bed0000ffb249444154785eecfd758055c7b72d8cbe7fdef7bd7bcf3d31a0f1
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:482] - First 100 bytes: 89504e470d0a1a0a0000000d4948445200000591000001e00806000000d48623b10000000467414d410000b18f0bfc6105000000097048597300000ec100000ec101b8916bed0000ffb249444154785eecfd758055c7b72d8cbe7fdef7bd7bcf3d31a0f1
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:482] - First 100 bytes: 89504e470d0a1a0a0000000d4948445200000591000001e00806000000d48623b10000000467414d410000b18f0bfc6105000000097048597300000ec100000ec101b8916bed0000ffb249444154785eecfd758055c7b72d8cbe7fdef7bd7bcf3d31a0f1
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:482] - First 100 bytes: 89504e470d0a1a0a0000000d4948445200000591000001e00806000000d48623b10000000467414d410000b18f0bfc6105000000097048597300000ec100000ec101b8916bed0000ffb249444154785eecfd758055c7b72d8cbe7fdef7bd7bcf3d31a0f1
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:503] - Identified file type: PNG
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:503] - Identified file type: PNG
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:503] - Identified file type: PNG
+2025-06-13 18:25:48,296 - services.extraction_service - INFO - [extraction_service.py:503] - Identified file type: PNG
+2025-06-13 18:25:48,346 - services.extraction_service - ERROR - [extraction_service.py:575] - AI extraction error for aadhar_front: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-06-13 18:25:48,346 - services.extraction_service - ERROR - [extraction_service.py:575] - AI extraction error for aadhar_front: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-06-13 18:25:48,346 - services.extraction_service - ERROR - [extraction_service.py:575] - AI extraction error for aadhar_front: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-06-13 18:25:48,346 - services.extraction_service - ERROR - [extraction_service.py:575] - AI extraction error for aadhar_front: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-06-13 18:25:48,347 - services.extraction_service - ERROR - [extraction_service.py:575] - AI extraction error for aadhar_back: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-06-13 18:25:48,347 - services.extraction_service - ERROR - [extraction_service.py:575] - AI extraction error for aadhar_back: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-06-13 18:25:48,347 - services.extraction_service - ERROR - [extraction_service.py:575] - AI extraction error for aadhar_back: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-06-13 18:25:48,347 - services.extraction_service - ERROR - [extraction_service.py:575] - AI extraction error for aadhar_back: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-06-13 18:25:48,348 - services.extraction_service - INFO - [extraction_service.py:273] - Completed extraction for aadhar_front in 0.05 seconds
+2025-06-13 18:25:48,348 - services.extraction_service - INFO - [extraction_service.py:273] - Completed extraction for aadhar_front in 0.05 seconds
+2025-06-13 18:25:48,348 - services.extraction_service - INFO - [extraction_service.py:273] - Completed extraction for aadhar_front in 0.05 seconds
+2025-06-13 18:25:48,348 - services.extraction_service - INFO - [extraction_service.py:273] - Completed extraction for aadhar_back in 0.05 seconds
+2025-06-13 18:25:48,348 - services.extraction_service - INFO - [extraction_service.py:273] - Completed extraction for aadhar_front in 0.05 seconds
+2025-06-13 18:25:48,348 - services.extraction_service - INFO - [extraction_service.py:273] - Completed extraction for aadhar_back in 0.05 seconds
+2025-06-13 18:25:48,348 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for aadhar_front: Verification failed
+2025-06-13 18:25:48,348 - services.extraction_service - INFO - [extraction_service.py:273] - Completed extraction for aadhar_back in 0.05 seconds
+2025-06-13 18:25:48,348 - services.extraction_service - INFO - [extraction_service.py:273] - Completed extraction for aadhar_back in 0.05 seconds
+2025-06-13 18:25:48,348 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for aadhar_front: Verification failed
+2025-06-13 18:25:48,348 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for aadhar_front: Verification failed
+2025-06-13 18:25:48,348 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for aadhar_front: Verification failed
+2025-06-13 18:25:48,348 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for aadhar_back: Verification failed
+2025-06-13 18:25:48,348 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for aadhar_back: Verification failed
+2025-06-13 18:25:48,348 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for aadhar_back: Verification failed
+2025-06-13 18:25:48,348 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for aadhar_back: Verification failed
+2025-06-13 18:25:48,349 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: address_proof_type
+2025-06-13 18:25:48,349 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: address_proof_type
+2025-06-13 18:25:48,349 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: address_proof_type
+2025-06-13 18:25:48,349 - services.extraction_service - INFO - [extraction_service.py:243] - Starting extraction: address_proof_type
+2025-06-13 18:25:48,350 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmp53k0_pt8.jpg
+2025-06-13 18:25:48,350 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmp53k0_pt8.jpg
+2025-06-13 18:25:48,350 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmp53k0_pt8.jpg
+2025-06-13 18:25:48,350 - services.extraction_service - DEBUG - [extraction_service.py:244] - Input source: /tmp/tmp53k0_pt8.jpg
+2025-06-13 18:25:48,350 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for address_proof_type: Failed to load document
+2025-06-13 18:25:48,350 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for address_proof_type: Failed to load document
+2025-06-13 18:25:48,350 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for address_proof_type: Failed to load document
+2025-06-13 18:25:48,350 - services.extraction_service - ERROR - [extraction_service.py:425] - Extraction failure for address_proof_type: Failed to load document

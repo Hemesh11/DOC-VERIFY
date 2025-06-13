@@ -61,11 +61,11 @@
         "name_match_required": true,
         "complete_address_required": true
       },
-      "status": "failed",
-      "error_message": "Address proof for director_2 does not contain a complete address",
+      "status": "passed",
+      "error_message": null,
       "details": {
-        "status": "failed",
-        "error_message": "Address proof for director_2 does not contain a complete address"
+        "status": "passed",
+        "error_message": null
       }
     },
     "indian_director_pan": {
@@ -170,22 +170,9 @@
         "is_valid": false,
         "validation_errors": [
           "Valid PAN card required for Indian director director_2",
-          "Both Aadhar front and back required for Indian director director_2",
-          "Address proof for director_2 does not contain a complete address"
+          "Both Aadhar front and back required for Indian director director_2"
         ],
-        "documents": {
-          "address_proof": {
-            "source": "/tmp/tmpgsx2msbo.pdf",
-            "document_type": "address_proof",
-            "is_valid": false,
-            "extracted_data": {
-              "extraction_status": "failed",
-              "document_type": "address_proof",
-              "error_message": "Verification failed",
-              "clarity_score": 0.0
-            }
-          }
-        },
+        "documents": {},
         "rule_validations": {
           "indian_director_pan": {
             "status": "failed",
@@ -208,8 +195,8 @@
             "error_message": null
           },
           "address_proof": {
-            "status": "failed",
-            "error_message": "Address proof for director_2 does not contain a complete address"
+            "status": "passed",
+            "error_message": null
           }
         }
       },
@@ -219,34 +206,11 @@
         "is_valid": false,
         "validation_errors": [
           "Valid PAN card required for Indian director director_1",
-          "Valid Aadhar front and back required for director_1",
-          "Address proof for director_1 does not contain a complete address"
+          "Valid Aadhar front and back required for director_1"
         ],
         "documents": {
-          "aadharCardFront": {
-            "source": "/tmp/tmp924tdvqw.jpg",
-            "document_type": "aadhar_front",
-            "is_valid": false,
-            "extracted_data": {
-              "extraction_status": "failed",
-              "document_type": "aadhar_front",
-              "error_message": "Verification failed",
-              "clarity_score": 0.0
-            }
-          },
-          "panCard": {
-            "source": "/tmp/tmp1ub1wmi9.jpg",
-            "document_type": "pan",
-            "is_valid": false,
-            "extracted_data": {
-              "extraction_status": "failed",
-              "document_type": "pan",
-              "error_message": "Verification failed",
-              "clarity_score": 0.0
-            }
-          },
           "aadharCardBack": {
-            "source": "/tmp/tmpon7ygwi_.jpg",
+            "source": "/tmp/tmp1ao2zvhc.jpg",
             "document_type": "aadhar_back",
             "is_valid": false,
             "extracted_data": {
@@ -256,35 +220,13 @@
               "clarity_score": 0.0
             }
           },
-          "signature": {
-            "source": "/tmp/tmpfs_rsl0d.jpg",
-            "document_type": "signature",
+          "aadharCardFront": {
+            "source": "/tmp/tmpm4jmxvb4.jpg",
+            "document_type": "aadhar_front",
             "is_valid": false,
             "extracted_data": {
               "extraction_status": "failed",
-              "document_type": "signature",
-              "error_message": "Verification failed",
-              "clarity_score": 0.0
-            }
-          },
-          "address_proof": {
-            "source": "/tmp/tmp15g4ojqe.pdf",
-            "document_type": "address_proof",
-            "is_valid": false,
-            "extracted_data": {
-              "extraction_status": "failed",
-              "document_type": "address_proof",
-              "error_message": "Verification failed",
-              "clarity_score": 0.0
-            }
-          },
-          "passportPhoto": {
-            "source": "/tmp/tmpf4d57j_t.jpg",
-            "document_type": "passport_photo",
-            "is_valid": false,
-            "extracted_data": {
-              "extraction_status": "failed",
-              "document_type": "passport_photo",
+              "document_type": "aadhar_front",
               "error_message": "Verification failed",
               "clarity_score": 0.0
             }
@@ -312,8 +254,8 @@
             "error_message": null
           },
           "address_proof": {
-            "status": "failed",
-            "error_message": "Address proof for director_1 does not contain a complete address"
+            "status": "passed",
+            "error_message": null
           }
         }
       },
@@ -343,8 +285,8 @@
           "error_message": null
         },
         "address_proof": {
-          "status": "failed",
-          "error_message": "Address proof for director_1 does not contain a complete address"
+          "status": "passed",
+          "error_message": null
         }
       }
     },
@@ -360,8 +302,8 @@
   "metadata": {
     "service_id": "1",
     "request_id": "req-12345",
-    "timestamp": "2025-06-13T17:28:00.808976",
-    "processing_time": 1.771585464477539,
+    "timestamp": "2025-06-13T18:25:48.350439",
+    "processing_time": 0.060247182846069336,
     "is_compliant": false
   }
 }

@@ -3,6 +3,12 @@ import base64
 import json
 from services.validation_service import DocumentValidationService
 from api.document_validation_api import DocumentValidationAPI
+from config.settings import Config
+
+st.subheader("🔐 Debug Secrets (temporary)")
+st.text(f"ELASTICSEARCH_HOST: {Config.ELASTICSEARCH_HOST}")
+st.text(f"ELASTICSEARCH_USERNAME: {Config.ELASTICSEARCH_USERNAME}")
+st.text(f"ELASTICSEARCH_PASSWORD is set: {Config.ELASTICSEARCH_PASSWORD}")
 
 st.title("Document Validation UI")
 
