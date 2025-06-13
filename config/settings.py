@@ -42,7 +42,8 @@ class Config:
         """
         return {
             'hosts': [cls.ELASTICSEARCH_HOST],
-            'http_auth': (cls.ELASTICSEARCH_USERNAME, cls.ELASTICSEARCH_PASSWORD)
+            'basic_auth': (cls.ELASTICSEARCH_USERNAME, cls.ELASTICSEARCH_PASSWORD),
+            'verify_certs': True
         }
 
     @classmethod
