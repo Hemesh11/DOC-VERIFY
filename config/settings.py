@@ -32,18 +32,18 @@ class Config:
     # Document Validation Rules
     VALIDATION_RULES_INDEX = os.getenv('VALIDATION_RULES_INDEX', 'compliance_rules')
 
-    # @classmethod
-    # def get_elasticsearch_config(cls):
-    #     """
-    #     Get Elasticsearch connection configuration
+    @classmethod
+    def get_elasticsearch_config(cls):
+        """
+        Get Elasticsearch connection configuration
         
-    #     Returns:
-    #         dict: Elasticsearch connection parameters
-    #     """
-    #     return {
-    #         'hosts': [cls.ELASTICSEARCH_HOST],
-    #         'http_auth': (cls.ELASTICSEARCH_USERNAME, cls.ELASTICSEARCH_PASSWORD)
-    #     }
+        Returns:
+            dict: Elasticsearch connection parameters
+        """
+        return {
+            'hosts': [cls.ELASTICSEARCH_HOST],
+            'http_auth': (cls.ELASTICSEARCH_USERNAME, cls.ELASTICSEARCH_PASSWORD)
+        }
 
     @classmethod
     def validate_config(cls):
