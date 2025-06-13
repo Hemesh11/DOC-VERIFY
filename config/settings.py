@@ -1,8 +1,4 @@
 import os
-from dotenv import load_dotenv
-
-# Load environment variables
-load_dotenv()
 
 class Config:
     """
@@ -27,8 +23,8 @@ class Config:
     OPENAI_API_KEY = os.getenv('OPENAI_API_KEY', '')
 
     # Logging Configuration
-    LOG_LEVEL = os.getenv('LOG_LEVEL', 'INFO')
-    LOG_FILE = os.getenv('LOG_FILE', 'document_validation.log')
+    # LOG_LEVEL = os.getenv('LOG_LEVEL', 'INFO')
+    # LOG_FILE = os.getenv('LOG_FILE', 'document_validation.log')
 
     # API Configurations
     API_BASE_URL = os.getenv('API_BASE_URL', 'https://qe-vsapi.vakilsearch.com/api/v1')
@@ -36,18 +32,18 @@ class Config:
     # Document Validation Rules
     VALIDATION_RULES_INDEX = os.getenv('VALIDATION_RULES_INDEX', 'compliance_rules')
 
-    @classmethod
-    def get_elasticsearch_config(cls):
-        """
-        Get Elasticsearch connection configuration
+    # @classmethod
+    # def get_elasticsearch_config(cls):
+    #     """
+    #     Get Elasticsearch connection configuration
         
-        Returns:
-            dict: Elasticsearch connection parameters
-        """
-        return {
-            'hosts': [cls.ELASTICSEARCH_HOST],
-            'http_auth': (cls.ELASTICSEARCH_USERNAME, cls.ELASTICSEARCH_PASSWORD)
-        }
+    #     Returns:
+    #         dict: Elasticsearch connection parameters
+    #     """
+    #     return {
+    #         'hosts': [cls.ELASTICSEARCH_HOST],
+    #         'http_auth': (cls.ELASTICSEARCH_USERNAME, cls.ELASTICSEARCH_PASSWORD)
+    #     }
 
     @classmethod
     def validate_config(cls):

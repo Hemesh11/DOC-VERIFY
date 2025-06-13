@@ -41,3 +41,20 @@
 2025-06-13 16:46:14,718 - document_validation - INFO - [elasticsearch_utils.py:35] - Elasticsearch connection established successfully
 2025-06-13 16:46:18,478 - document_validation - INFO - [elasticsearch_utils.py:35] - Elasticsearch connection established successfully
 2025-06-13 16:46:19,094 - document_validation - INFO - [elasticsearch_utils.py:73] - Retrieved 1 rules for service ID: 1
+2025-06-13 17:26:27,311 - document_validation - ERROR - [elasticsearch_utils.py:32] - Elasticsearch connection failed
+2025-06-13 17:26:27,491 - document_validation - ERROR - [elasticsearch_utils.py:32] - Elasticsearch connection failed
+2025-06-13 17:26:30,331 - document_validation - ERROR - [elasticsearch_utils.py:32] - Elasticsearch connection failed
+2025-06-13 17:26:30,346 - document_validation - ERROR - [elasticsearch_utils.py:78] - Error retrieving compliance rules: 'NoneType' object has no attribute 'search'
+2025-06-13 17:26:48,562 - document_validation - ERROR - [elasticsearch_utils.py:32] - Elasticsearch connection failed
+2025-06-13 17:26:49,766 - document_validation - ERROR - [elasticsearch_utils.py:32] - Elasticsearch connection failed
+2025-06-13 17:26:49,788 - document_validation - ERROR - [elasticsearch_utils.py:78] - Error retrieving compliance rules: 'NoneType' object has no attribute 'search'
+2025-06-13 17:27:10,998 - document_validation - ERROR - [elasticsearch_utils.py:32] - Elasticsearch connection failed
+2025-06-13 17:27:12,584 - document_validation - ERROR - [elasticsearch_utils.py:32] - Elasticsearch connection failed
+2025-06-13 17:27:12,928 - document_validation - ERROR - [elasticsearch_utils.py:78] - Error retrieving compliance rules: 'NoneType' object has no attribute 'search'
+2025-06-13 17:27:33,842 - document_validation - ERROR - [elasticsearch_utils.py:32] - Elasticsearch connection failed
+2025-06-13 17:27:39,084 - document_validation - ERROR - [elasticsearch_utils.py:32] - Elasticsearch connection failed
+2025-06-13 17:27:44,655 - document_validation - ERROR - [elasticsearch_utils.py:32] - Elasticsearch connection failed
+2025-06-13 17:27:50,425 - document_validation - ERROR - [elasticsearch_utils.py:32] - Elasticsearch connection failed
+2025-06-13 17:27:57,011 - document_validation - ERROR - [elasticsearch_utils.py:32] - Elasticsearch connection failed
+2025-06-13 17:27:58,604 - document_validation - ERROR - [elasticsearch_utils.py:32] - Elasticsearch connection failed
+2025-06-13 17:27:59,037 - document_validation - ERROR - [elasticsearch_utils.py:78] - Error retrieving compliance rules: 'NoneType' object has no attribute 'search'
